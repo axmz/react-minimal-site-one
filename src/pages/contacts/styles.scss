@@ -1,0 +1,11 @@
+.pagecontacts {
+    min-height: calc(100vh - calc(17rem + 6rem)); // header and footer height
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &__content {
+        margin-top: 6rem;
+        width: 100%;
+        // font-size: 8rem;
+    }
+}

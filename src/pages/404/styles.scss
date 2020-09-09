@@ -1,0 +1,9 @@
+.page404 {
+    min-height: calc(100vh - calc(17rem + 6rem)); // header and footer height
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &__content {
+        font-size: 8rem;
+    }
+}
