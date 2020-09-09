@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a12aaa5907b867215262421b5d98c52",
+    "revision": "dff83687f8778bc0d9d4b58262323113",
     "url": "/react-minimal-site-one/index.html"
   },
   {
-    "revision": "e18c8422ef19aabe3652",
-    "url": "/react-minimal-site-one/static/css/main.58506635.chunk.css"
+    "revision": "375c96ddfa3a2d738b5d",
+    "url": "/react-minimal-site-one/static/css/main.dfc7ca97.chunk.css"
   },
   {
     "revision": "11fb4aa50ea03b42ab89",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-minimal-site-one/static/js/2.9e980678.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e18c8422ef19aabe3652",
+    "revision": "375c96ddfa3a2d738b5d",
     "url": "/react-minimal-site-one/static/js/main.52300114.chunk.js"
   },
   {
     "revision": "1fea2536886f48317bfa",
     "url": "/react-minimal-site-one/static/js/runtime-main.9acc6fe8.js"
+  },
+  {
+    "revision": "bc9fa02b4227255be2387a7e19a3e09b",
+    "url": "/react-minimal-site-one/static/media/Akkurat-Light.bc9fa02b.ttf"
   },
   {
     "revision": "882a57264d9041f8c52b12ff804e0f27",
