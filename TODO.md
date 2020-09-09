@@ -12,3 +12,4 @@
 <!-- - header fixed -->
 - fix bug, logo is moving in /home
 - add more media queries
+- add credits: font, pictures, svg

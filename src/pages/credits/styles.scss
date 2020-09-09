@@ -1,0 +1,7 @@
+.pagecredits {
+    min-height: calc(100vh - calc(17rem + 6rem)); // header and footer height
+    display: flex;
+    &__content {
+        // font-size: 1rem;
+    }
+}

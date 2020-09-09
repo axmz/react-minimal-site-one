@@ -7,7 +7,7 @@ const Logo = () => {
     return (
         <div className={"logo"}>
             <Link to="/" className={'logo__link'}>
-                LOGO
+                ARCH
         </Link>
         </div>
     )

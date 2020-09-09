@@ -4,7 +4,7 @@ import { Switch, Route, useLocation } from 'react-router-dom'
 import Home from './pages/home/index'
 import About from './pages/about/index'
 import Contacts from './pages/contacts/index'
-import NoMatch from './pages/404/index'
+import Credits from './pages/credits/index'
 import Header from './components/header/header'
 import Footer from './components/footer/footer'
 
@@ -50,8 +50,11 @@ function App() {
           <Route path="/contacts">
             <Contacts />
           </Route>
+          <Route path="/credits">
+            <Credits />
+          </Route>
           <Route>
-            <NoMatch />
+            <Credits />
           </Route>
         </Switch>
       </div>
