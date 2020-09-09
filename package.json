@@ -2,7 +2,6 @@
   "name": "react-minimal-site",
   "version": "0.1.0",
   "homepage": "http://axmz.github.io/react-minimal-site-one",
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",

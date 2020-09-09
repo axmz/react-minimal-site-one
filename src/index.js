@@ -6,7 +6,7 @@ import App from './App';
 
 ReactDOM.render(
   // <React.StrictMode>
-  <BrowserRouter>
+  <BrowserRouter basename="/react-minimal-site-one">
     <App />
   </BrowserRouter>
   // </React.StrictMode>
